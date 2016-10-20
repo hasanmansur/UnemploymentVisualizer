@@ -15,5 +15,8 @@ Features:
 
 Some Interesting Findings:
 --------------------------
+If you want to embed images, this is how you do it:
+
+![Image of picks](https://hasanmansur.github.io/viz_usa_unemployment/images/picks.png)
 
 
