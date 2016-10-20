@@ -24,7 +24,7 @@ Some Interesting Events in data:
 
 ![Image of stableunemploymentrate](https://hasanmansur.github.io/viz_usa_unemployment/images/stableunemploymentrate.png)
 
-- For Puerto Rico unemployment rate is always high comparing to the corresponding rates for other rates.
+- For Puerto Rico unemployment rate is always high comparing to the corresponding rates for other states.
 
 ![Image of puerto rico](https://hasanmansur.github.io/viz_usa_unemployment/images/puerto-rico.png)
 
