@@ -12,3 +12,8 @@ Features:
 - Highlighting state on mouseover event in map.
 - Highlighting state on mouseover event in time series line chart.
 - Show corresponding unemployment rate, month, year, state name while mouseover time series line chart. 
+
+Some Interesting Findings:
+--------------------------
+
+
